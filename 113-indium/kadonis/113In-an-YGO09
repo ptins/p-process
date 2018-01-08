@@ -1,0 +1,31 @@
+A(target)==113
+Element==In
+Z(target)==49
+reaction==a,n
+A(projectile)==4
+Z(projectile)==2
+name==Yalcin
+year==2009
+reference==YGO09
+exfor==D4213
+DOI==10.1103/PhysRevC.79.065801
+NSR==2009YA08
+Comment==
+Authors==C.Yalcin, R.T.Guray, N.Ozkan, S.Kutlu, Gy.Gyurky, J.Farkas, G.G.Kiss, Zs.Fulop, A.Simon, E.Somorjai, T.Rauscher
+Reference==Phys.Rev. C 79, 065801 (2009)
+Title==Odd p isotope 113In: Measurement of α-induced reactions
+Comment2==Total and G and M data
+E_cm_given_in_the_article==True
+S-factor_given_in_the_article==True
+#E(lab)  ErrE(lab)   E(c.m.)	ErrE(c.m.)	CS	ErrCS	S-factor	ErrS-factor
+#[MeV]	[MeV]   [MeV]	[MeV]	[barn]	[barn]	[MeV*barn]	[MeV*barn]
+10.03	-	9.66	-	7E-05	2E-05	2.73E+23	9.3E+22
+10.57	-	10.187	-	0.00027	4E-05	2.28E+23	3.5E+22
+11	-	10.606	-	0.00082	7E-05	2.16E+23	2.1E+22
+11.11	-	10.704	-	0.001	8E-05	1.99E+23	1.9E+22
+11.5	-	11.085	-	0.0021	0.0002	1.59E+23	1.4E+22
+12	-	11.573	-	0.006	0.0005	1.42E+23	1.4E+22
+12.61	-	12.162	-	0.013	0.001	8.5E+22	8E+21
+13	-	12.536	-	0.025	0.002	7.2E+22	7E+21
+13.5	-	13.018	-	0.05	0.004	5.5E+22	5E+21
+14.14	-	13.64	-	0.088	0.006	3E+22	3E+21
