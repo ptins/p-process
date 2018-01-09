@@ -1,0 +1,18 @@
+projectile a
+element in
+mass 113
+energy energies
+ldmodel 1
+strength 1
+alphaomp 1
+jlmomp y
+xseps 1.e-35
+popeps 1.e-35
+transeps 1.e-35
+cbreak p 0.
+cbreak n 0.
+cstrip p 0.
+cstrip n 0.
+cknock p 0.
+cknock n 0.
+gnorm 1
